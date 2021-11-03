@@ -2,6 +2,8 @@
 
 [![CodeQL](https://github.com/ChristophePelichet/check_mfiles_size/workflows/CodeQL/badge.svg)](https://github.com/ChristophePelichet/check_mfiles_size/actions?query=workflow%3ACodeQL)
 
+## Description
+
 The purpose of the script is to check the size of several files according to a baseline that contains the path, threshold sizes for warning and critical alerts.
 
 ## Configuration
