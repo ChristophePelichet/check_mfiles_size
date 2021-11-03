@@ -10,9 +10,9 @@ The purpose of the script is to check the size of several files according to a b
 
 A simple file including per line the file path and threshold sizes for warnign and critical alerts separated by a ";"
 exemple : 
-/var/log/my_log;my_warn_threshold;my_crit_threshold
-/var/log/my_log_1;1500;1700
-/var/log/my_log_2;1800;2000
+- /var/log/my_log;my_warn_threshold;my_crit_threshold
+- /var/log/my_log_1;1500;1700
+- /var/log/my_log_2;1800;2000
 
 ## Command
 
